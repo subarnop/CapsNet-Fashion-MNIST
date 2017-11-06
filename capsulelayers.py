@@ -1,11 +1,3 @@
-"""
-Some key layers used for constructing a Capsule Network. These layers can used to construct CapsNet on other dataset,
-not just on MNIST.
-*NOTE*: some functions can be implemented in multiple ways, I keep all of them. You can try them for yourself just by
-uncommenting them and commenting their counterparts.
-Author: Xifeng Guo, E-mail: `guoxifeng1990@163.com`, Github: `https://github.com/XifengGuo/CapsNet-Keras`
-"""
-
 import keras.backend as K
 import tensorflow as tf
 from keras import initializers, layers
