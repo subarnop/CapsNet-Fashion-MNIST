@@ -7,7 +7,9 @@ The model is trained on Fashin MNIST dataset. Fashion-MNIST is a dataset of Zala
 
 Download the dataset [here](https://www.kaggle.com/zalando-research/fashionmnist/data)!
 
+Layers used are defined as follows:
 ```
+====================================================================================================
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 input_1 (InputLayer)             (None, 28, 28, 1)     0                                            
